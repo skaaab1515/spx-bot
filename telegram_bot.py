@@ -1,5 +1,4 @@
 
-"""بوت تيليجرام لتحليل عقود SPX."""
 
 from __future__ import annotations
 
